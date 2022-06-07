@@ -1,4 +1,4 @@
-# LEETCODE 167
+# LEETCODE 167: Two Sum Pointer Solution
 # Time: O(n)
 # Space: O(1)
 class Solution:

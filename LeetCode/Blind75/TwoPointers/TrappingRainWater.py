@@ -1,4 +1,4 @@
-# LEETCODE 42
+# LEETCODE 42: Trapping Rain Water Two Pointer Solution
 # Time: O(n)
 # Space: O(1)
 class Solution:

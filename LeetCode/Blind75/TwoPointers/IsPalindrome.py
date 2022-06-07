@@ -1,4 +1,4 @@
-# LEETCODE 125
+# LEETCODE 125: Is Palindrome Two Pointer Solution
 # Time: O(n)
 # Space: O(1)
 class Solution:
