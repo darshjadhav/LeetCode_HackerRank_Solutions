@@ -1,4 +1,6 @@
-# Time: O(n) Space: O(1)
+# LEETCODE 42
+# Time: O(n)
+# Space: O(1)
 class Solution:
     def trap(self, height: List[int]) -> int:
         # min(l,r) - h[i] = x (>=0)
