@@ -1,2 +1,2 @@
 # LeetCode_HackerRank_Solutions
- DS&A Practice
+Data Structures & Algorithms practice on Leetcode/Hackerrank
