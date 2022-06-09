@@ -1,8 +1,8 @@
 # LEETCODE 235: lowest Common Ancestor for Binary Tree (Traversal)
 # Time: O(log(n)), O(h)
 # Space: O(1)
+# https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
-#https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, x):

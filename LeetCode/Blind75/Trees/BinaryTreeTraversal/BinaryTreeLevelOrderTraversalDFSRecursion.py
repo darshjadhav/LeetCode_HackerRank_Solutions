@@ -1,7 +1,7 @@
 # LEETCODE 102: DFS Recursive Level Order Traversal for Binary Tree
 # TIME: O(n)
 # SPACE: O(n)
-# https://leetcode.com/problems/binary-tree-level-order-traversal/solution/
+# https://leetcode.com/problems/binary-tree-level-order-traversal/
 
 # Definition for a binary tree node.
 # class TreeNode:
