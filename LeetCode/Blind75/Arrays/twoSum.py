@@ -1,4 +1,7 @@
-# TIME: O(n) SPACE: O(n)
+# LEETCODE 1: Two Sum using Hashmap
+# TIME: O(n)
+# SPACE: O(n)
+# https://leetcode.com/problems/two-sum/
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         hashmap = {}
